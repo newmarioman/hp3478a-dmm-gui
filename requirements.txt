@@ -1,0 +1,8 @@
+matplotlib>=3.10,<4
+numpy>=1.23
+scipy>=1.9
+pyserial>=3.5
+PyAR488>=1.6,<2
+Pillow>=9.1
+chime>=0.8
+screeninfo>=0.8
